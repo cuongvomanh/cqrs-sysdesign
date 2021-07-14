@@ -1,0 +1,12 @@
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/querycontroller/IQuery.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/impl/SignOnCommandHandler.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/impl/TransactionalCommandDispatcher.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/App.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/querycontroller/IQueryHandler.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/ICommand.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/impl/SignOnCommand.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/ICommandHandler.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/querycontroller/impl/QueryDispatcher.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/ICommandDispatcher.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/querycontroller/IQueryDispatcher.java
+/home/cuong/Staff/github/cqrs-sysdesign/src/main/java/com/mycompany/mygroup/core/controller/impl/CommandDispatcher.java
